@@ -4,3 +4,4 @@ It is a rocky planet.
 Mars is cool. 
 Gah 
 The next planet is ...
+The moon is near Mars
